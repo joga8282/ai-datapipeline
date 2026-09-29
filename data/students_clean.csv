@@ -1,0 +1,50 @@
+,name,age,gender,score,email,scored
+0,홍길동,20.0,남,85.0,hong@example.com,85.0
+1,김철수,21.0,남자,90.0,kim@example.com,90.0
+2,이영희,30.0,여,,,86.0
+3,박민수,23.0,남,70.0,park@example.com,70.0
+4,홍길동,20.0,남,85.0,hong@example.com,85.0
+5, 최지훈 ,24.0,M,88.0,choi@example.com,88.0
+6,김민지,22.0,여자,92.0,minji@example.com,92.0
+7,이수진,21.0,여,76.0,sujin@example.com,76.0
+8,박지성,25.0,남성,81.0,jisung@example.com,81.0
+9,정우성,26.0,남,95.0,woosung@example.com,95.0
+10,강동원,27.0,남,100.0,dongwon@example.com,100.0
+11,송혜교,22.0,F,,hyekyo@example.com,86.0
+12,김태희,21.0,여,89.0,taehee@example.com,89.0
+13,전지현,23.0,여성,91.0,jihyun@example.com,91.0
+14,손흥민,24.0,남,84.0,heungmin@example.com,84.0
+15,황희찬,25.0,남자,78.0,heechan@example.com,78.0
+16,김연아,30.0,F,96.0,,96.0
+17,박보검,22.0,남,73.0,bogum@example.com,73.0
+18,아이유,21.0,여,87.0,iu@example.com,87.0
+19,유재석,30.0,남,65.0,jaesuk@example.com,65.0
+20,강호동,31.0,M,68.0,hodong@example.com,68.0
+21,신동엽,29.0,남,77.0,dongyeop@example.com,77.0
+22,이효리,28.0,여자,93.0,hyori@example.com,93.0
+23,김종국,27.0,남성,82.0,jongkook@example.com,82.0
+24,하정우,26.0,남,79.0,jungwoo@example.com,79.0
+25, 이정재,25.0,남,,jungjae@example,86.0
+26,정우성 ,26.0,남,,woosung@example.com,86.0
+27,김혜수,25.0,여,90.0,hysoo@example.com,90.0
+29,최민식,25.0,남자,88.0,minsig @example.com,88.0
+30,김지원,23.0,여,91.0,jiwon@example.com,91.0
+31,박서준,22.0,남,83.0,seojun@example.com,83.0
+32,한소희,21.0,F,77.0,sohee@example.com,77.0
+33,남주혁,25.0,남자,94.0,joohyuk@example.com,94.0
+34,수지,24.0,여성,86.0,suzy@example.com,86.0
+35,공유,28.0,M,72.0,gongyoo@example.com,72.0
+36,김고은,23.0,여,89.0,goeun@example.com,89.0
+37,현빈,29.0,남성,98.0,hyunbin@example.com,98.0
+38,손예진,27.0,여자,92.0,yejin@example.com,92.0
+39,조정석,26.0,남,81.0,jungsuk@example.com,81.0
+40,김다미,30.0,F,,dami@example.com,86.0
+41,최우식,24.0,남,75.0,woosik@example.com,75.0
+42,이병헌,25.0,남자,,byunghun@example.com,86.0
+43,한지민,22.0,여,88.0,jimin@example.com,88.0
+44,마동석,30.0,남성,69.0,dongseok@example.com,69.0
+45,김우빈,27.0,M,95.0,woobin@example.com,95.0
+46,신민아,26.0,여성,84.0,minah@example.com,84.0
+47,이성민,25.0,남,79.0,sungmin@example.com,79.0
+48,임시완,23.0,남자,90.0,siwan@example.com,90.0
+49,윤아 ,24.0,F,87.0,yoona@example,87.0
