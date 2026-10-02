@@ -68,9 +68,18 @@
 - 웹 페이지에서 필요한 데이터를 수집해오는 자동화 라이브러리(패키지)
 - 데이터 수집 방법 : OpenAPI 사용, 스크래핑
 - 기본적 **HTML**, **CSS**, JS..
+
   - 웹구조
   - css의 경우도 손성명에만 신경쓰면 됨. **class ="class_name"**  , **id="id_name"**
   - 웹페이지를 html로만 구현하지 않고 js로 동적으로 만드는 경우도 있음
   - 필요한 경우는 `페이지 소스 보기` 로 한줄씩 확인
+  - 웹페이지를 html로만 구현하지 않고 js로 동적으로 만드는 경우도 있음, 웹 스크래핑
+  - [셀리니움기초](./ch04/셀레니움기초.ipynb)
+- #### 동적 스크래핑 실습 사이트
+
+
+  - [실습예제사이트](https://quotes.toscrape.com/)
+  - 네이버는 내용이 너무많이 포기 m.naver.com으로 다시 만듬
+  - ` <meta name="viewport" content="width=device-width, initial-scale=1.0">` 이구문만 써도 동적으로 작동됨
 
 ### 확장자에서 office viewer 설치하면 파일을 엑셀처럼볼수있음
